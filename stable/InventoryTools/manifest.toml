@@ -1,0 +1,12 @@
+[plugin]
+repository = "https://github.com/Critical-Impact/InventoryTools.git"
+commit = "c6f86b24510b5609346ca7b212d154011d0ee8fd"
+owners = [
+    "Critical-Impact",
+]
+project_path = "InventoryTools"
+version = "1.6.2.4"
+changelog = """\
+**Fixes**
+- Fix potential STG crash related to fonts
+"""

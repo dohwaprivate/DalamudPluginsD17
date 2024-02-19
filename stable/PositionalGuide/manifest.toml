@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/PrincessRTFM/PositionalAssistant.git"
+owners = [ "PrincessRTFM",]
+project_path = ""
+commit = "017977e4a253e736b24a97e0afc9ee8d15cb94ee"
+changelog = ""
