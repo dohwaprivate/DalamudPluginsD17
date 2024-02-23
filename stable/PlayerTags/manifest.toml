@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/Pilzinsel64/PlayerTags.git"
+commit = "e8513c9988a7bba75af24d98a6a82c0d80002207"
+owners = [
+    "Pilzinsel64",
+]
+project_path = "PlayerTags"
+changelog = """- Fixed /playertags command not showing the settings UI anymore"""

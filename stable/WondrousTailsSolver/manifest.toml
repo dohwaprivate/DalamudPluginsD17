@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/daemitus/WondrousTailsSolver.git"
+owners = [ "daemitus",]
+project_path = "WondrousTailsSolver"
+commit = "0f4d82e1a1248d7a5db1690cf94da0375a1bc24f"
+changelog = ""

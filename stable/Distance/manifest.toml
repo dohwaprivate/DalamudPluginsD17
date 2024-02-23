@@ -1,0 +1,10 @@
+[plugin]
+repository = "https://github.com/PunishedPineapple/Distance.git"
+commit = "01e4bea31c1703f8cb624bbda8875cf5dde15b0f"
+owners = [
+    "PunishedPineapple",
+]
+project_path = "Distance"
+changelog = '''
+- Updated for FFXIV patch 6.4.
+'''
