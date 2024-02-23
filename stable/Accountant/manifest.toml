@@ -1,8 +1,9 @@
 [plugin]
-repository = "https://github.com/Ottermandias/Accountant.git"
-commit = "66f083d898849c3abfc2ac8dd2835af11220b19b"
+repository = "https://github.com/dohwaplugins/FantasyPlayer.git"
+commit = "ff4475a47e55fe3f9a4fbcfa659858613c902967"
 owners = [
-    "Ottermandias",
+    "dohwaplugins",
+		"KangDohwa",
 ]
-project_path = "Accountant"
+project_path = "FantasyPlayer"
 changelog = "Updated for Dalamud staging."

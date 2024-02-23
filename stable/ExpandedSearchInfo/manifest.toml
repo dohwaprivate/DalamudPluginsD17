@@ -1,5 +1,0 @@
-[plugin]
-repository = 'https://git.anna.lgbt/ascclemens/ExpandedSearchInfo.git'
-commit = '1a00d2ce19ebb095a5760437d455783e0bb66057'
-owners = [ 'ascclemens' ]
-changelog = '.NET 7'

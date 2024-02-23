@@ -1,9 +1,0 @@
-[plugin]
-repository = "https://github.com/snooooowy/EurekaHelper.git"
-commit = "78c64519402d204a0063de0fa44fa923b67c1f67"
-owners = ["snooooowy"]
-project_path = "EurekaHelper"
-changelog = """
-Elemental Manager
-- Added crowdsourced positions
-"""

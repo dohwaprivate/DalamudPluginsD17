@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
-owners = [ "wolfcomp" ]
-project_path = "DeepDungeonDex"
-commit = "52527f11f154b2062edb15c059936819dfd45bb4"
-changelog = "### 2.5.6 (2023-05-09)\n\n\n### Bug Fixes\n\n* add file name to yml deserializer error (29ff05f)"
-version = "2.5.6"

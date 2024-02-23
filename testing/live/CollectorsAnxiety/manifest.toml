@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/KazWolfe/CollectorsAnxiety.git"
-commit = "f87902390c2a1bc211cba6475b3f0ee3bc459e37"
-owners = [
-    "KazWolfe",
-]
-project_path = "CollectorsAnxiety"

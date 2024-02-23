@@ -1,8 +1,0 @@
-[plugin]
-repository = "https://github.com/Kouzukii/ffxiv-deathrecap.git"
-commit = "522782d58784d86e8d95d67dd30033dee34aa8d7"
-owners = ["Kouzukii"]
-project_path = ""
-changelog = """
-Fixed recap DoT values being *slightly* inaccurate
-"""
