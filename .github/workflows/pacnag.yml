@@ -7,11 +7,11 @@ on:
 
 jobs:
   runjob:
-    if: github.repository == 'dohwaprivate/DalamudPluginsD17'
+    # if: github.repository == 'goatcorp/DalamudPluginsD17'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: dohwaprivate/PAC-Nag@8aebccf83df73bf5a11894d2d5832712f941f19d
+      - uses: reiichi001/PAC-Nag@a76ed0ac31a9528f5dc9bc4e591fc6aca85ecd4a
         with:
           token: ${{secrets.GITHUB_TOKEN}}
           discord_webhook: ${{secrets.PAC_DISCORD_WEBHOOK}}

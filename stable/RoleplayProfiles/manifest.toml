@@ -1,6 +1,0 @@
-[plugin]
-repository = "https://github.com/Maia-Everett/dalamud-roleplay-profiles.git"
-commit = "9c228d438403a04245aedf05fc73145bb5cf534e"
-owners = ["Maia-Everett"]
-project_path = "RoleplayProfiles"
-changelog = """Added support for two-factor authentication."""

@@ -1,7 +1,0 @@
-[plugin]
-repository = "https://github.com/KangDohwa/heliosphere-xiv.git"
-commit = "f1f51bad606d382516eb181a047ad480b4091e85"
-owners = [
-    "KangDohwa",
-]
-project_path = "Heliosphere"
