@@ -1,0 +1,9 @@
+[plugin]
+repository = "https://github.com/reiichi001/Dalamud.RichPresence.git"
+commit = "ef25e74a923a84763f77284a5c78b9d4299d5151"
+owners = [
+    "goaaats",
+    "reiichi001",
+]
+project_path = "Dalamud.RichPresence"
+changelog = "NET7 / API 8 support."
