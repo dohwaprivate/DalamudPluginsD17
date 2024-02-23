@@ -1,0 +1,8 @@
+[plugin]
+repository = "https://github.com/WesselKuipers/FCNameColor.git"
+commit = "5bfadc08f3e269b954180854d06c37d0ea5e088a"
+owners = ["WesselKuipers"]
+project_path = "FCNameColor"
+changelog = """
+- Fix issue where settings were not correctly being read, causing names abbreviations not matching up with the user's settings.
+"""
